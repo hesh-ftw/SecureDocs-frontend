@@ -22,7 +22,7 @@ const Navbar = () => {
     setToken(null);
     setCurrentUser(null);
     setIsAdmin(false);
-    navigate("/login");
+    navigate("");
   };
 
   return (
